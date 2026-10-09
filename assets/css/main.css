@@ -3265,3 +3265,10 @@ html {
 		    object-fit: cover;
 		    object-position: center;
 		}
+
+.photo-credit {
+	font-size: 9px;
+	opacity: 0.45;
+	text-align: center;
+	margin-top: 8px;
+}
