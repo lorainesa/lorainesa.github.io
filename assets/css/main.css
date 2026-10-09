@@ -3251,3 +3251,17 @@ html {
     scroll-behavior: smooth;
 }
 
+
+		/* Outreach & Teaching image sizing */
+		#outreach .work-item .image.fit {
+		    width: 100%;
+		    aspect-ratio: 4 / 5;
+		    overflow: hidden;
+		}
+		
+		#outreach .work-item .image.fit img {
+		    width: 100%;
+		    height: 100%;
+		    object-fit: cover;
+		    object-position: center;
+		}
