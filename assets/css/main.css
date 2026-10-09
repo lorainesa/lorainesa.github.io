@@ -3266,9 +3266,9 @@ html {
 		    object-position: center;
 		}
 
-.photo-credit {
-	font-size: 9px;
-	opacity: 0.45;
-	text-align: center;
-	margin-top: 8px;
+#three .photo-credit {
+    font-size: 8px;
+    opacity: 0.45;
+    margin-top: 3em;
+    margin-bottom: 0;
 }
