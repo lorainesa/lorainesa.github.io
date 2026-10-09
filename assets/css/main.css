@@ -3267,8 +3267,14 @@ html {
 		}
 
 #three .photo-credit {
-    font-size: 8px;
+    font-size: 9px;
     opacity: 0.45;
     margin-top: 3em;
-    margin-bottom: 0;
+    margin-bottom: 0.3em;
+}
+
+#three .site-credit {
+    font-size: 9px;
+    opacity: 0.45;
+    margin: 0;
 }
